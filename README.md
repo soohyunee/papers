@@ -1,3 +1,2 @@
 # papers
-the summaries and implementations of Machine learning papers
-(especially in NLP and Computer Vision)
+the summaries and implementations of Computer Vision Machine Learning papers
